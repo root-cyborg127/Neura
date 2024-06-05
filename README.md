@@ -46,7 +46,11 @@ Neura is crafted to ensure both security and creativity in how you share links o
    ```
 4. Run the bot.
    ```bash
-   python bot.py
+   python neura.py
+   ```
+5. Update Creds.
+   ```bash
+   Update the Bot Token @line 152
    ```
 
 ## 🤝 Connect with Me
@@ -63,9 +67,6 @@ Your contributions and support are highly appreciated. You can support the proje
 
 Contributions to this project are welcome. Feel free to explore and enhance the application's functionality.
 
-## 📃 License
-
-This project is under the [MIT License](LICENSE) - Feel free to use, modify, and distribute.
 
 ---
 
