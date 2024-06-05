@@ -89,7 +89,7 @@ def handle_url(update: Update, context: CallbackContext) -> None:
         return 'DOMAIN'
     else:
         update.message.reply_text(
-            "Invalid URL format. Please enter a valid web URL (ex: https://www.ngrok.com):"
+            "Invalid URL format. Please enter a valid web URL :"
         )
         return 'URL'
 
@@ -149,7 +149,7 @@ def handle_phish(update: Update, context: CallbackContext) -> None:
         return 'PHISH'
 
 def main() -> None:
-    updater = Updater("6386798657:AAF4tCpPCU4c5r4u2sxtyOxS0MBXfUu_nkA")
+    updater = Updater("YOUR-BOT-TOKEN")
 
     dispatcher = updater.dispatcher
 
