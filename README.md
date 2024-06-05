@@ -38,7 +38,7 @@ Neura is crafted to ensure both security and creativity in how you share links o
    ```
 2. Navigate to the project directory.
    ```bash
-   cd neura
+   cd Neura
    ```
 3. Install the required dependencies.
    ```bash
