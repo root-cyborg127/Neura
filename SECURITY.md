@@ -11,8 +11,7 @@ The following versions of Neura: Mask The Phish are currently supported with sec
 | Version | Supported          |
 | ------- | ------------------ |
 | 2.0.x   | :white_check_mark: |
-| 1.0.x   | :x:                |
-| < 1.0   | :x:                |
+
 
 ## 🛡️ Reporting a Vulnerability
 
